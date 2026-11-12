@@ -151,7 +151,7 @@ bash run.sh
 Navigate to **`http://localhost:8501`** in your browser.
 
 #### Features inside the UI:
-- **1-Click Quick Loaders**: Load real St. Petersburg or synthetic test scenes.
+- **1-Click Quick Loaders**: Load real field captures or synthetic quad test scenes.
 - **Before vs After Tab**: Compare the uncorrected naive homography baseline against the improved uniform panorama.
 - **Interactive Match Visualizer**: View color-coded correspondence lines and the pairwise RANSAC inlier heatmap.
 - **Performance Telemetry**: Inspect execution time per stage (milliseconds) and inlier metrics.
